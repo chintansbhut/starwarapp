@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/swapi/static/css/main.39eda0f7.chunk.css",
-    "main.js": "/swapi/static/js/main.22376a75.chunk.js",
-    "main.js.map": "/swapi/static/js/main.22376a75.chunk.js.map",
-    "runtime-main.js": "/swapi/static/js/runtime-main.8f2ddf77.js",
-    "runtime-main.js.map": "/swapi/static/js/runtime-main.8f2ddf77.js.map",
-    "static/js/2.6212d4af.chunk.js": "/swapi/static/js/2.6212d4af.chunk.js",
-    "static/js/2.6212d4af.chunk.js.map": "/swapi/static/js/2.6212d4af.chunk.js.map",
-    "index.html": "/swapi/index.html",
-    "precache-manifest.843ddc08e19d4d57fd37de415692856f.js": "/swapi/precache-manifest.843ddc08e19d4d57fd37de415692856f.js",
-    "service-worker.js": "/swapi/service-worker.js",
-    "static/css/main.39eda0f7.chunk.css.map": "/swapi/static/css/main.39eda0f7.chunk.css.map",
-    "static/js/2.6212d4af.chunk.js.LICENSE.txt": "/swapi/static/js/2.6212d4af.chunk.js.LICENSE.txt"
+    "main.css": "/starwarapp/static/css/main.39eda0f7.chunk.css",
+    "main.js": "/starwarapp/static/js/main.22376a75.chunk.js",
+    "main.js.map": "/starwarapp/static/js/main.22376a75.chunk.js.map",
+    "runtime-main.js": "/starwarapp/static/js/runtime-main.bbd0c636.js",
+    "runtime-main.js.map": "/starwarapp/static/js/runtime-main.bbd0c636.js.map",
+    "static/js/2.6212d4af.chunk.js": "/starwarapp/static/js/2.6212d4af.chunk.js",
+    "static/js/2.6212d4af.chunk.js.map": "/starwarapp/static/js/2.6212d4af.chunk.js.map",
+    "index.html": "/starwarapp/index.html",
+    "precache-manifest.9a678e0e068c4cd984a25269c56b42b4.js": "/starwarapp/precache-manifest.9a678e0e068c4cd984a25269c56b42b4.js",
+    "service-worker.js": "/starwarapp/service-worker.js",
+    "static/css/main.39eda0f7.chunk.css.map": "/starwarapp/static/css/main.39eda0f7.chunk.css.map",
+    "static/js/2.6212d4af.chunk.js.LICENSE.txt": "/starwarapp/static/js/2.6212d4af.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f2ddf77.js",
+    "static/js/runtime-main.bbd0c636.js",
     "static/js/2.6212d4af.chunk.js",
     "static/css/main.39eda0f7.chunk.css",
     "static/js/main.22376a75.chunk.js"
